@@ -76,6 +76,15 @@ Start numbering with offset:
 57. foo
 1. bar
 
+Task List
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [x] list syntax required (any
+unordered or ordered list
+supported)
 
 ## Code
 
@@ -151,9 +160,11 @@ The killer feature of `markdown-it` is very effective support of
 [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
 
 
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+### [Emojies](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
+> GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;)
 
@@ -162,8 +173,8 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
-- 19^th^
-- H~2~O
+- 19<sup>th</sup>
+- H<sub>2</sub>O
 
 
 ### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
@@ -216,4 +227,3 @@ Term 1
 Term 2
   ~ Definition 2a
   ~ Definition 2b
-
