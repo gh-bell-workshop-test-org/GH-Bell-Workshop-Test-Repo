@@ -76,7 +76,7 @@ Start numbering with offset:
 57. foo
 1. bar
 
-Task List 
+Task List
 - [x] this is a complete item
 - [ ] this is an incomplete item
 - [x] @mentions, #refs, [links](),
@@ -160,9 +160,11 @@ The killer feature of `markdown-it` is very effective support of
 [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
 
 
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+### [Emojies](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
+> GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;)
 
@@ -225,4 +227,3 @@ Term 1
 Term 2
   ~ Definition 2a
   ~ Definition 2b
-
