@@ -229,3 +229,8 @@ Term 1
 Term 2
   ~ Definition 2a
   ~ Definition 2b
+
+# Issue reference
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
