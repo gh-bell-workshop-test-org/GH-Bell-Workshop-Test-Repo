@@ -76,6 +76,15 @@ Start numbering with offset:
 57. foo
 1. bar
 
+Task List 
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [x] list syntax required (any
+unordered or ordered list
+supported)
 
 ## Code
 
@@ -162,8 +171,8 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
-- 19^th^
-- H~2~O
+- 19<sup>th</sup>
+- H<sub>2</sub>O
 
 
 ### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
